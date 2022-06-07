@@ -97,4 +97,6 @@ print('')
 rec = {'name': {'firstname': 'Bob', 'lastname': 'Smith'},
         'job': ['dev', 'mgr'],
         'age': 25}
-print(rec[name])
+print(rec['name']['firstname'], rec['name']['lastname'], " - полное имя")
+print(rec['name']['firstname'], " - отдельно firstname")
+print(rec['job'], " - список должностей")
