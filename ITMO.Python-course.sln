@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32428.217
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ITMO.Python-course", "ITMO.Python-course\ITMO.Python-course.pyproj", "{48BE8B9E-5AC1-4878-AB09-4BA11C65ECBB}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ITMO.Python_Labs.02_Strings", "ITMO.Python_Labs.02-Strings\ITMO.Python_Labs.02_Strings.pyproj", "{F2E35B6C-5C1E-4BB0-96F0-9930E34FE4ED}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ITMO.Python-Labs.02", "ITMO.Python-Labs.02\ITMO.Python-Labs.02.pyproj", "{CE27A2DE-9A61-4DFA-A7A0-DCDC4704DB53}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ITMO.Python_Labs02_Numbers", "ITMO.Python_Labs02_Numbers\ITMO.Python_Labs02_Numbers.pyproj", "{0AF48553-7F46-4CD5-A14B-F3832B1ABF2A}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ITMO.Python_Labs.02_Data_Transformation", "ITMO.Python_Labs.02-Data-Transformation\ITMO.Python_Labs.02_Data_Transformation.pyproj", "{DC8D1EFD-5575-45A6-9031-62C893EB97D0}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ITMO.Python_Labs.02_Strings_Format", "ITMO.Python_Labs.02_Strings_Format\ITMO.Python_Labs.02_Strings_Format.pyproj", "{5D00DFE7-CD66-4E41-A2C7-46C8A20007E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,10 +17,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{48BE8B9E-5AC1-4878-AB09-4BA11C65ECBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{48BE8B9E-5AC1-4878-AB09-4BA11C65ECBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CE27A2DE-9A61-4DFA-A7A0-DCDC4704DB53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CE27A2DE-9A61-4DFA-A7A0-DCDC4704DB53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2E35B6C-5C1E-4BB0-96F0-9930E34FE4ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2E35B6C-5C1E-4BB0-96F0-9930E34FE4ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AF48553-7F46-4CD5-A14B-F3832B1ABF2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AF48553-7F46-4CD5-A14B-F3832B1ABF2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC8D1EFD-5575-45A6-9031-62C893EB97D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC8D1EFD-5575-45A6-9031-62C893EB97D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D00DFE7-CD66-4E41-A2C7-46C8A20007E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D00DFE7-CD66-4E41-A2C7-46C8A20007E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
