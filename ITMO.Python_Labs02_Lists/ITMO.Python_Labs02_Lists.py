@@ -63,3 +63,7 @@ listseq.append(999)
 print(listseq, "append(999)")
 listseq.pop(len(listseq)-1)
 print(listseq, "pop(len(list) -1 ")
+print('')
+
+print("##### Работа со словарями #####")
+D = {'food': 'Apple', 'quantity': 4, 'color': 'Red'}
