@@ -61,6 +61,8 @@ listseq.sort(reverse=True)
 print(listseq, "сортировка reverse=True")
 listseq.append(999)
 print(listseq, "append(999)")
+del listseq[-1]
+print(listseq, "del list[-1] ")
 listseq.pop(len(listseq)-1)
 print(listseq, "pop(len(list) -1 ")
 print('')
