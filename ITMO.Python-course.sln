@@ -7,8 +7,6 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ITMO.Python_Labs.02_Strings
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ITMO.Python_Labs02_Numbers", "ITMO.Python_Labs02_Numbers\ITMO.Python_Labs02_Numbers.pyproj", "{0AF48553-7F46-4CD5-A14B-F3832B1ABF2A}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ITMO.Python_Labs.02_Data_Transformation", "ITMO.Python_Labs.02-Data-Transformation\ITMO.Python_Labs.02_Data_Transformation.pyproj", "{DC8D1EFD-5575-45A6-9031-62C893EB97D0}"
-EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ITMO.Python_Labs.02_Strings_Format", "ITMO.Python_Labs.02_Strings_Format\ITMO.Python_Labs.02_Strings_Format.pyproj", "{5D00DFE7-CD66-4E41-A2C7-46C8A20007E8}"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ITMO.Python_Labs02_Lists", "ITMO.Python_Labs02_Lists\ITMO.Python_Labs02_Lists.pyproj", "{4A51518E-F843-4888-A25F-DF006E5B2C57}"
@@ -21,6 +19,10 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ITMO.Python_Labs.03_Import"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ITMO.Python_Labs_Final", "ITMO.Python_Labs_Final\ITMO.Python_Labs_Final.pyproj", "{633519F7-DF4B-47BF-9654-74B94FF4726E}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ITMO.Python_Labs.02_Data_Transform", "ITMO.Python_Labs.02_Data_Transform\ITMO.Python_Labs.02_Data_Transform.pyproj", "{15882247-B949-4E15-9214-CB0C5314876B}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ITMO.Python_Labs.06_Exceptions", "ITMO.Python_Labs.06_Exceptions\ITMO.Python_Labs.06_Exceptions.pyproj", "{5AEAB98F-7730-4DFD-9C8B-D285852C34B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,8 +33,6 @@ Global
 		{F2E35B6C-5C1E-4BB0-96F0-9930E34FE4ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AF48553-7F46-4CD5-A14B-F3832B1ABF2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0AF48553-7F46-4CD5-A14B-F3832B1ABF2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DC8D1EFD-5575-45A6-9031-62C893EB97D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DC8D1EFD-5575-45A6-9031-62C893EB97D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D00DFE7-CD66-4E41-A2C7-46C8A20007E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5D00DFE7-CD66-4E41-A2C7-46C8A20007E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A51518E-F843-4888-A25F-DF006E5B2C57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -45,6 +45,10 @@ Global
 		{307B1E99-297B-46E6-A496-C7BE128CDDB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{633519F7-DF4B-47BF-9654-74B94FF4726E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{633519F7-DF4B-47BF-9654-74B94FF4726E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15882247-B949-4E15-9214-CB0C5314876B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15882247-B949-4E15-9214-CB0C5314876B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AEAB98F-7730-4DFD-9C8B-D285852C34B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AEAB98F-7730-4DFD-9C8B-D285852C34B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

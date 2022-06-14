@@ -3,8 +3,9 @@
 print('Введите длину последовательности n: ')
 
 n = int(input())
-while n > 0:
-    S = 0
+
+while n > 0:    # до тех пор, пока n > 0
+    S = 0       # S = 0
     for i in range(1, n + 1):
         S += int(input("Введите любое число: "))
     print("Mid ", S / i)
