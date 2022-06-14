@@ -17,6 +17,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ITMO.Python_Labs.04_Cycles"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ITMO.Python_Labs.05_Function", "ITMO.Python_Labs.05_Function\ITMO.Python_Labs.05_Function.pyproj", "{0896A473-C862-4E46-B49E-0558BA2E1527}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ITMO.Python_Labs.03_Import", "ITMO.Python_Labs.03_Import\ITMO.Python_Labs.03_Import.pyproj", "{307B1E99-297B-46E6-A496-C7BE128CDDB2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,8 @@ Global
 		{692AF4DA-C321-4336-9BEF-DB651D28EB77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0896A473-C862-4E46-B49E-0558BA2E1527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0896A473-C862-4E46-B49E-0558BA2E1527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{307B1E99-297B-46E6-A496-C7BE128CDDB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{307B1E99-297B-46E6-A496-C7BE128CDDB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
